@@ -1,46 +1,4 @@
-/* body {
-    font-family: Arial, sans-serif;
-    margin: 0;
-    padding: 0;
-    background-color: #f6f5f5;
-  }
-  
-  .div{
-    color: rgb(47, 10, 235);
-    background-color: #b3f116;
-    box-sizing: border-box;
-    font-style: italic;
-    border-radius: 10px;
-    }
-    .high{
-        border-radius: 20%;
-        background-color: #0fea49;
-        color: #fff;
-        border: none;
-        padding: 10px;
-        border-radius: 100px;
-        cursor: pointer;
-        font-size: 1em;
-        transition: transform 0.3s;
-       
-    }
-    .move{
-        background-color: #d4273b;
-    box-sizing: border-box;
-    font-style: italic;
-    border-radius: 100px;
-    width: 65px;
-    }
-    
-    .high:hover{
-        background-color: #6bf30b;
-        transform: translateX(27px);
-        
-      }
-    img{
-        height: 300px;
-        border-radius: 10px;
-    }*/
+
 *{
   margin: 0;
   font-family: Arial;
